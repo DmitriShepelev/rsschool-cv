@@ -12,8 +12,8 @@ To change my profession and become a Senior Software Developer within 1-2 years.
 - Online courses "Programming Basics with C#" parts 1-2 on ulearn.me
 - Video courses on ITVDN: C# Starter, C# Essential, C# Professional, Design Patterns
 - Remote course "C# Basics_Upskill Lab 2020" by EPAM
-- External training "NET Training Autumn 2021" by EPAM (received recommendation to the lab)
-- Currently participating in the Clevertec Frontend Lab marathon (HTML/CSS, JavaScript, and React)
+- External training "NET Training Autumn 2021" by EPAM (received recommendation to the lab)- Currently participating in the Clevertec Frontend Lab marathon (HTML/CSS, JavaScript, and React)
+- Participated in the Clevertec Frontend Lab (HTML/CSS, JavaScript and React) marathon.
 
 ## SKILLS
 - .Net platform (Core, .Net 5, .Net 6)
